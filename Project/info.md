@@ -2,7 +2,7 @@
 
 
 ## Overview
-The system requires electronic devices that can be modified as desired. If you have the following devices and materials ready, the time required to build and install this system is approximately 6-10 hours.
+The system uses electronic devices that can be modified as desired. If you have the following devices and materials ready, the time required to build and install this system is approximately 6-10 hours.
 <br>
 Make Sure you have installed Device driver for esp8266. and use 2.4ghz connection to connect with micro controller.
 ### Devices and Materials Required
