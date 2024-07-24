@@ -16,3 +16,5 @@ Developed as a first-year engineering project, this smart irrigation system util
 
 - **Remote Control and Monitoring:**
   - Enabled remote control and monitoring capabilities, allowing users to adjust irrigation settings remotely via a smartphone or web interface.
+- **More:**
+  - To get more idea about how i built this project Open the Above Folder and read info.md.
