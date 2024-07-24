@@ -80,6 +80,7 @@ Download the required libraries for DHT11, i2CLCD, ESp8266 etc etc. variety of s
 
 2. **Upload Code:**
    - Upload your code to the ESP8266 using the Arduino IDE.
+   - for Code refer CODE.C file inside Project repository.
 
 3. **Enter Template ID:**
    - Open the Blynk app.
