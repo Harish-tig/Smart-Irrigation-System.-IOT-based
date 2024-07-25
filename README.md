@@ -1,7 +1,9 @@
 # Smart-Irrigation-System.-IOT-based
 
-<img src="https://github.com/user-attachments/assets/4811b024-09dc-4fb7-8dc9-ab4775f64bee" width="300" height=250 /> <img src="https://github.com/user-attachments/assets/4811b024-09dc-4fb7-8dc9-ab4775f64bee" width="300" height=250 /> 
-
+<img src="https://github.com/user-attachments/assets/4811b024-09dc-4fb7-8dc9-ab4775f64bee" width="300" height=250 />
+<p align = "left"> 
+  <img src="https://github.com/user-attachments/assets/4811b024-09dc-4fb7-8dc9-ab4775f64bee" width="300" height=250 /> 
+</p>
 
 ## Overview
 Developed as a first-year engineering project, this smart irrigation system utilizes the ESP8266 microcontroller for efficient water management in agriculture. This project could be controlled remotely from anywhere in the world using blynkIOt mobile application or Web page. 
