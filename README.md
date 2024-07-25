@@ -1,7 +1,7 @@
 # Smart-Irrigation-System.-IOT-based
 
-<img src="https://github.com/user-attachments/assets/4811b024-09dc-4fb7-8dc9-ab4775f64bee" width="300" height=250 /> &emsp; &emsp; &emsp;  
-<img src="https://github.com/user-attachments/assets/4811b024-09dc-4fb7-8dc9-ab4775f64bee" width="300" height=250 /> 
+
+<img src="https://github.com/user-attachments/assets/52404694-9969-4c35-93f5-d238ecf9b4b7" width=40%  /> &ensp; <img src="https://github.com/user-attachments/assets/55172946-d1c7-45d3-959f-df6639213cb6" width=40% /> 
 
 
 ## Overview
