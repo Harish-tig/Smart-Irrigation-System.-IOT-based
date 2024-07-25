@@ -1,6 +1,6 @@
 # Smart-Irrigation-System.-IOT-based
 
-![CORE SYSTEM](C:\Users\nadar\Downloads\top view.png)
+![CORE SYSTEM](top view.png)
 
 ## Overview
 Developed as a first-year engineering project, this smart irrigation system utilizes the ESP8266 microcontroller for efficient water management in agriculture. This project could be controlled remotely from anywhere in the world using blynkIOt mobile application or Web page. 
