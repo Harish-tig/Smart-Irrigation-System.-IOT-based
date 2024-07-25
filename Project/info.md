@@ -47,6 +47,9 @@ Understand the connections mentioned below to modify the code as needed.
   - Vcc --> Vcc
   - Gnd --> Gnd
   - Data --> D4
+  
+### Your Connection Architecture should look like this
+<img src="https://github.com/user-attachments/assets/6151b5d6-6d8b-453b-8196-d78880e18efc" width=40% height="220" /> 
 
 ### Final Steps
 Once the connections are completed, connect the ESP8266 to your laptop and upload the code to the ESP8266 using the Arduino IDE.
@@ -68,9 +71,13 @@ Download the required libraries for DHT11, i2CLCD, ESp8266 etc etc. variety of s
 - After adding the Template ID, you will be able to control your device via a laptop from anywhere in the world.
 - You can also download the Blynk app from the Play Store to control it via mobile.
 
-### Example of Blynk Dashboard (refer to "Picture 1")
+#### Example of Blynk WEB Dashboard (refer below image)
+<img src="https://github.com/user-attachments/assets/ccf8490a-551d-4fd8-8f69-8bd3c19523b7" widht="400" height="300">
 
-![Blynk Dashboard Example](https://example.com/image.jpg)
+#### Example of Blynk mobile Dashboard (refer below image)
+<img src = "https://github.com/user-attachments/assets/9e14299a-a49d-4a37-a886-de6954d58ba2" widht="400" height="300">
+
+
 
 ## Steps to Follow:
 
